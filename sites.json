@@ -1549,6 +1549,13 @@
             "facile.it"
         ]
     },
+    
+     {
+        "name": "Fanfiction.net",
+        "url": "https://www.fanfiction.net",
+        "difficulty": "impossible",
+        "notes": "There is no official way to delete a fanfiction account. However, you can change your username, e-mail, and password. You can also delete everything you have uploaded to the site.",
+    },
 
     {
         "name": "Feedly",
